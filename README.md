@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Han Myat Thu. People call me Han or Draz.</h1>
-<h3 align="center">A passionate developer from Asia and I say proudly that I chose software development industry because I am really passionate about it.  Have over 5 years of work experiences in software development industry. Two Years in Myanmar and the rest in Thailand. My technical skills are JavaScript Frameworks, React, Vue, Node, Next, Angular, Nest, Nuxt, TypeScript, PHP/Laravel, React-Native. My goal is to deliver the software that is being used in WorldWide.</h3>
+<h3 align="center">A passionate developer from Asia and I say proudly that I chose software development industry because I am really passionate about it.  Have over 6 years of work experiences in software development industry. Two Years in Myanmar and the rest in Thailand. My technical skills are JavaScript Frameworks, React, Vue, Node, Next, Angular, Nest, Nuxt, TypeScript, PHP/Laravel, React-Native. My goal is to deliver the software that is being used in WorldWide.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanmyatthu" alt="hanmyatthu" /></a> </p>
 
